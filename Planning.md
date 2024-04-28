@@ -16,7 +16,7 @@ Lost Miner - Story / Puzzle
 Archeology / Lost Civilization Explorer - Story / Puzzle
 
 ## Foundation
-2D / 3D Hybrid - 3rd Person
+2D / 3D Hybrid - 3rd Person Top-down
 - 2D sprites in 3D environments
 Lost Civilazation / Nuclear Accident
 - Must wear radiation suit bc of nuclear fallout
@@ -24,7 +24,7 @@ Lost Civilazation / Nuclear Accident
 Survival Puzzle
 - Collect stuff to survive
 - Unlock the next Area
-- light mechanic (switch puzzle turn on lights) / flashlight
+- light mechanic (switch puzzle turn on lights) / flashlight / lantern
 
 ## Magic
 - Find Supplies --> Bright Hopeful (Audio/Visual)
@@ -39,7 +39,7 @@ Survival Puzzle
 	- fuel glows
 - Supplies
 	- Food
-	- Light Fuel
+	- Light Fuel (charging Station)
 	- Water Source
 
 ## Gameloop
